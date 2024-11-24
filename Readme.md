@@ -4,13 +4,6 @@
 AGui for test driving any WarThunder vehicle based on [This video](https://www.youtube.com/watch?v=VbFSo0YqJE0)
 
 
-
-
-# WT TEST DRIVER
-
-AGui for test driving any WarThunder vehicle based on [This video](https://www.youtube.com/watch?v=VbFSo0YqJE0&t=126s)
-
-
 ## Installation
 
 make sure to install python and Install Dependancies 
