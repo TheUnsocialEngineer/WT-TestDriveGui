@@ -6,12 +6,8 @@ A Gui for test driving any WarThunder vehicle based on [This video](https://www.
 
 ## Installation
 
-make sure to install python and Install Dependancies 
+make sure to install python
 
-```bash
-pip3 install -r requirements.txt
-```
-    
 ## Usage/Examples
 
 I would suggest you watch [Ask3lad's video](https://www.youtube.com/watch?v=VbFSo0YqJE0) before running this as it may help with troubleshooting issues later on
