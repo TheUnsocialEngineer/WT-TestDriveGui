@@ -1,7 +1,7 @@
 
 # WT TEST DRIVER
 
-AGui for test driving any WarThunder vehicle based on [This video](https://www.youtube.com/watch?v=VbFSo0YqJE0)
+A Gui for test driving any WarThunder vehicle based on [This video](https://www.youtube.com/watch?v=VbFSo0YqJE0)
 
 
 ## Installation
